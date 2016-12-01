@@ -1,0 +1,2 @@
+
+Sup.loadScene("Main Scene");

@@ -1,0 +1,57 @@
+{
+  "behaviors": {
+    "PlayerMovement2dbehavior": {
+      "scriptId": "6",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        }
+      ]
+    },
+    "CameraFollowPlayer": {
+      "scriptId": "8",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "RenderFPS": {
+      "scriptId": "11",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "shoot": {
+      "scriptId": "19",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "corns",
+          "type": "number"
+        },
+        {
+          "name": "shootCoolDown",
+          "type": "boolean"
+        }
+      ]
+    },
+    "launch": {
+      "scriptId": "22",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "gravity",
+          "type": "number"
+        }
+      ]
+    }
+  }
+}

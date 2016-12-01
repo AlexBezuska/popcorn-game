@@ -1,0 +1,102 @@
+{
+  "nextEntryId": 31,
+  "nodes": [
+    {
+      "id": "0",
+      "name": "popcorn-machine",
+      "type": "sprite"
+    },
+    {
+      "id": "6",
+      "name": "PlayerMovement2d",
+      "type": "script"
+    },
+    {
+      "id": "8",
+      "name": "Camera Follow Player",
+      "type": "script"
+    },
+    {
+      "id": "11",
+      "name": "RenderFPS",
+      "type": "script"
+    },
+    {
+      "id": "19",
+      "name": "shoot",
+      "type": "script"
+    },
+    {
+      "id": "20",
+      "name": "projectile",
+      "type": "sprite"
+    },
+    {
+      "id": "2",
+      "name": "Game",
+      "type": "script"
+    },
+    {
+      "id": "3",
+      "name": "Main Scene",
+      "type": "scene"
+    },
+    {
+      "id": "12",
+      "name": "Font",
+      "type": "font"
+    },
+    {
+      "id": "21",
+      "name": "Particles",
+      "type": "scene"
+    },
+    {
+      "id": "22",
+      "name": "apply-gravity",
+      "type": "script"
+    },
+    {
+      "id": "26",
+      "name": "sounds",
+      "type": null,
+      "children": [
+        {
+          "id": "25",
+          "name": "pop3",
+          "type": "sound"
+        },
+        {
+          "id": "23",
+          "name": "pop1",
+          "type": "sound"
+        },
+        {
+          "id": "24",
+          "name": "pop2",
+          "type": "sound"
+        },
+        {
+          "id": "27",
+          "name": "powerup1",
+          "type": "sound"
+        },
+        {
+          "id": "28",
+          "name": "powerup2",
+          "type": "sound"
+        },
+        {
+          "id": "29",
+          "name": "powerup3",
+          "type": "sound"
+        },
+        {
+          "id": "30",
+          "name": "powerup4",
+          "type": "sound"
+        }
+      ]
+    }
+  ]
+}
